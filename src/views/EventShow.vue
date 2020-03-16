@@ -1,5 +1,10 @@
 <template>
   <div>
-    <h1>Showing event #1</h1>
+    <h1>Showing event #{{ id }}</h1>
   </div>
 </template>
+<script>
+export default {
+  props: ['id']
+}
+</script>
