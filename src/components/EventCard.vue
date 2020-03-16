@@ -3,11 +3,10 @@
     class="event-link"
     :to="{ name: 'event-show', params: { id: '1' } }"
   >
-    <div class="event-cad -shadow">
+    <div class="event-card -shadow">
       <span class="eyebrow">@{{ event.time }} on {{ event.date }}</span>
       <h4 class="title">{{ event.title }}</h4>
-      <BaseIcon name="users" />
-      <span>{{ event.attendess.length }} attending</span>
+      <BaseIcon name="users">{{ event.attendess.length }} attending</BaseIcon>
     </div>
   </router-link>
 </template>
