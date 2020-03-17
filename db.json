@@ -113,6 +113,20 @@
       "date": "2020-03-20T03:50:00.000Z",
       "time": "10:00",
       "attendees": []
+    },
+    {
+      "id": 2680289,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jhonatan"
+      },
+      "title": "Wash the dishes",
+      "description": "",
+      "location": "Home",
+      "date": "2020-03-11T20:29:00.000Z",
+      "time": "15:00",
+      "attendees": []
     }
   ]
 }
