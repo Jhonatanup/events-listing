@@ -71,6 +71,48 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 1121631,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jhonatan Leandro"
+      },
+      "title": "Study Vue.js",
+      "description": "Study vue.js for 6 hours a day",
+      "location": "Dourados",
+      "date": "2020-04-01T03:30:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 8721223,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jhonatan Leandro"
+      },
+      "title": "Planting Trees",
+      "description": "Plant some trees",
+      "location": "Forest",
+      "date": "2020-03-12T03:40:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 3124022,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jhonatan Leandro"
+      },
+      "title": "Walk with my dog",
+      "description": "take a walk with my little bud",
+      "location": "Neighbourhood",
+      "date": "2020-03-20T03:50:00.000Z",
+      "time": "10:00",
+      "attendees": []
     }
   ]
 }
