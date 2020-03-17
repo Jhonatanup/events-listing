@@ -1,5 +1,7 @@
 # real-world-vue
 
+real world application using vue js
+
 ## Project setup
 ```
 yarn install
